@@ -28,7 +28,7 @@ if today_tuple in birthdays_dict:
     message = client.messages.create(
         body=contents,
         from_='+1 985 531 1090',
-        to='+91 98409 13995'
+        to='*************'
     )
     print(message.status)
 
