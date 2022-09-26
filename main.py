@@ -9,8 +9,7 @@ import random
 account_sid='**********'
 auth_token='***********'
 
-MY_EMAIL = "YOUR EMAIL"
-MY_PASSWORD = "YOUR PASSWORD"
+
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
